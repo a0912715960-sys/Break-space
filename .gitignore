@@ -1,0 +1,9 @@
+.env
+.env.*
+*.dpapi
+*.pem
+*.key
+.local/
+node_modules/
+work/
+*.log
